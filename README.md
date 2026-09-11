@@ -1,4 +1,4 @@
-# 🚲 EcoGlide
+# 🚲 EcoGlide — Smart Mobility Management Platform
 
 [🇮🇹 Versione italiana](README.it.md)
 
@@ -96,8 +96,8 @@ These components were designed so that real third-party providers could be integ
 Clone the repository:
 
 ```bash
-git clone https://github.com/zSpiDa/sals-ingegneria.git
-cd sals-ingegneria
+git clone https://github.com/zSpiDa/EcoGlide.git
+cd EcoGlide
 ```
 
 Create a virtual environment.
