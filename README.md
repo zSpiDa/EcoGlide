@@ -8,7 +8,7 @@
 ![Django](https://img.shields.io/badge/Django-Web%20Framework-green?logo=django&logoColor=white)
 ![Django REST Framework](https://img.shields.io/badge/DRF-REST%20API-red)
 ![JWT](https://img.shields.io/badge/Auth-JWT-orange)
-
+eco
 ## Project Overview
 
 EcoGlide is an academic software engineering project focused on the design and implementation of a smart mobility and vehicle-sharing management platform.
@@ -49,7 +49,7 @@ The project also includes frontend dashboards for different user roles and a set
 The project is organized around a Django backend and a lightweight frontend.
 
 ```text
-sals-ingegneria/
+EcoGlide/
 ├── config/
 │   ├── settings.py
 │   └── urls.py
